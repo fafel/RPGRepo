@@ -1,0 +1,902 @@
+fileFormatVersion: 2
+guid: ee5477052cc07024e9ad9301ef67fab0
+timeCreated: 1431456083
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bookshelves Docks Boat Books and Levers_0
+    21300002: Bookshelves Docks Boat Books and Levers_1
+    21300004: Bookshelves Docks Boat Books and Levers_2
+    21300006: Bookshelves Docks Boat Books and Levers_3
+    21300008: Bookshelves Docks Boat Books and Levers_4
+    21300010: Bookshelves Docks Boat Books and Levers_5
+    21300012: Bookshelves Docks Boat Books and Levers_6
+    21300014: Bookshelves Docks Boat Books and Levers_7
+    21300016: Bookshelves Docks Boat Books and Levers_8
+    21300018: Bookshelves Docks Boat Books and Levers_9
+    21300020: Bookshelves Docks Boat Books and Levers_10
+    21300022: Bookshelves Docks Boat Books and Levers_11
+    21300024: Bookshelves Docks Boat Books and Levers_12
+    21300026: Bookshelves Docks Boat Books and Levers_13
+    21300028: Bookshelves Docks Boat Books and Levers_14
+    21300030: Bookshelves Docks Boat Books and Levers_15
+    21300032: Bookshelves Docks Boat Books and Levers_16
+    21300034: Bookshelves Docks Boat Books and Levers_17
+    21300036: Bookshelves Docks Boat Books and Levers_18
+    21300038: Bookshelves Docks Boat Books and Levers_19
+    21300040: Bookshelves Docks Boat Books and Levers_20
+    21300042: Bookshelves Docks Boat Books and Levers_21
+    21300044: Bookshelves Docks Boat Books and Levers_22
+    21300046: Bookshelves Docks Boat Books and Levers_23
+    21300048: Bookshelves Docks Boat Books and Levers_24
+    21300050: Bookshelves Docks Boat Books and Levers_25
+    21300052: Bookshelves Docks Boat Books and Levers_26
+    21300054: Bookshelves Docks Boat Books and Levers_27
+    21300056: Bookshelves Docks Boat Books and Levers_28
+    21300058: Bookshelves Docks Boat Books and Levers_29
+    21300060: Bookshelves Docks Boat Books and Levers_30
+    21300062: Bookshelves Docks Boat Books and Levers_31
+    21300064: Bookshelves Docks Boat Books and Levers_32
+    21300066: Bookshelves Docks Boat Books and Levers_33
+    21300068: Bookshelves Docks Boat Books and Levers_34
+    21300070: Bookshelves Docks Boat Books and Levers_35
+    21300072: Bookshelves Docks Boat Books and Levers_36
+    21300074: Bookshelves Docks Boat Books and Levers_37
+    21300076: Bookshelves Docks Boat Books and Levers_38
+    21300078: Bookshelves Docks Boat Books and Levers_39
+    21300080: Bookshelves Docks Boat Books and Levers_40
+    21300082: Bookshelves Docks Boat Books and Levers_41
+    21300084: Bookshelves Docks Boat Books and Levers_42
+    21300086: Bookshelves Docks Boat Books and Levers_43
+    21300088: Bookshelves Docks Boat Books and Levers_44
+    21300090: Bookshelves Docks Boat Books and Levers_45
+    21300092: Bookshelves Docks Boat Books and Levers_46
+    21300094: Bookshelves Docks Boat Books and Levers_47
+    21300096: Bookshelves Docks Boat Books and Levers_48
+    21300098: Bookshelves Docks Boat Books and Levers_49
+    21300100: Bookshelves Docks Boat Books and Levers_50
+    21300102: Bookshelves Docks Boat Books and Levers_51
+    21300104: Bookshelves Docks Boat Books and Levers_52
+    21300106: Bookshelves Docks Boat Books and Levers_53
+    21300108: Bookshelves Docks Boat Books and Levers_54
+    21300110: Bookshelves Docks Boat Books and Levers_55
+    21300112: Bookshelves Docks Boat Books and Levers_56
+    21300114: Bookshelves Docks Boat Books and Levers_57
+    21300116: Bookshelves Docks Boat Books and Levers_58
+    21300118: Bookshelves Docks Boat Books and Levers_59
+    21300120: Bookshelves Docks Boat Books and Levers_60
+    21300122: Bookshelves Docks Boat Books and Levers_61
+    21300124: Bookshelves Docks Boat Books and Levers_62
+    21300126: Bookshelves Docks Boat Books and Levers_63
+    21300128: Bookshelves Docks Boat Books and Levers_64
+    21300130: Bookshelves Docks Boat Books and Levers_65
+    21300132: Bookshelves Docks Boat Books and Levers_66
+    21300134: Bookshelves Docks Boat Books and Levers_67
+    21300136: Bookshelves Docks Boat Books and Levers_68
+    21300138: Bookshelves Docks Boat Books and Levers_69
+    21300140: Bookshelves Docks Boat Books and Levers_70
+    21300142: Bookshelves Docks Boat Books and Levers_71
+    21300144: Bookshelves Docks Boat Books and Levers_72
+    21300146: Bookshelves Docks Boat Books and Levers_73
+    21300148: Bookshelves Docks Boat Books and Levers_74
+    21300150: Bookshelves Docks Boat Books and Levers_75
+    21300152: Bookshelves Docks Boat Books and Levers_76
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bookshelves Docks Boat Books and Levers_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 85
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 85
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_9
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 85
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 85
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 85
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 68
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 68
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_20
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_21
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_22
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_23
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 68
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 68
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_25
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 68
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 51
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_27
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 51
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_30
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_31
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_32
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_33
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_34
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_35
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_36
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 51
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 51
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_38
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 51
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_39
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 38
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_40
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 37
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_41
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 36
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_42
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 36
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_43
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 37
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 37
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_45
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 37
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 37
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_47
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 37
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_48
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 37
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_49
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 37
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_50
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 34
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_51
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 17
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_52
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 17
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_53
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 17
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_54
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 19
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_55
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 19
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_56
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 19
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_57
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 19
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_58
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 19
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_59
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 19
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_60
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 19
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_61
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 19
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_62
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 19
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_63
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 18
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_64
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_65
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_66
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_67
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_68
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_69
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_70
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_71
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_73
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_74
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 3
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_75
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 3
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bookshelves Docks Boat Books and Levers_76
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: da1ef7d9e4211194d9a0a0a805aed7b0
+timeCreated: 1431450555
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Aroows and Circles_0
+    21300002: Aroows and Circles_1
+    21300004: Aroows and Circles_2
+    21300006: Aroows and Circles_3
+    21300008: Aroows and Circles_4
+    21300010: Aroows and Circles_5
+    21300012: Aroows and Circles_6
+    21300014: Aroows and Circles_7
+    21300016: Aroows and Circles_8
+    21300018: Aroows and Circles_9
+    21300020: Aroows and Circles_10
+    21300022: Aroows and Circles_11
+    21300024: Aroows and Circles_12
+    21300026: Aroows and Circles_13
+    21300028: Aroows and Circles_14
+    21300030: Aroows and Circles_15
+    21300032: Aroows and Circles_16
+    21300034: Aroows and Circles_17
+    21300036: Aroows and Circles_18
+    21300038: Aroows and Circles_19
+    21300040: Aroows and Circles_20
+    21300042: Aroows and Circles_21
+    21300044: Aroows and Circles_22
+    21300046: Aroows and Circles_23
+    21300048: Aroows and Circles_24
+    21300050: Aroows and Circles_25
+    21300052: Aroows and Circles_26
+    21300054: Aroows and Circles_27
+    21300056: Aroows and Circles_28
+    21300058: Aroows and Circles_29
+    21300060: Aroows and Circles_30
+    21300062: Aroows and Circles_31
+    21300064: Aroows and Circles_32
+    21300066: Aroows and Circles_33
+    21300068: Aroows and Circles_34
+    21300070: Aroows and Circles_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Aroows and Circles_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 87
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 87
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 87
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 87
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 87
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 87
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 71
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 71
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_8
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 71
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 71
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 71
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_11
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 71
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_15
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 36
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_19
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 36
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 36
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 36
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 36
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_23
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 36
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 20
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 20
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_26
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 20
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_27
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 20
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_28
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 20
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_29
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 20
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_31
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_33
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_34
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aroows and Circles_35
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

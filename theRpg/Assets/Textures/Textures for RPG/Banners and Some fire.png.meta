@@ -1,0 +1,781 @@
+fileFormatVersion: 2
+guid: 2b10c9b6dc6431448beadf6b932f2749
+timeCreated: 1431450601
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Banners and Some fire_0
+    21300002: Banners and Some fire_1
+    21300004: Banners and Some fire_2
+    21300006: Banners and Some fire_3
+    21300008: Banners and Some fire_4
+    21300010: Banners and Some fire_5
+    21300012: Banners and Some fire_6
+    21300014: Banners and Some fire_7
+    21300016: Banners and Some fire_8
+    21300018: Banners and Some fire_9
+    21300020: Banners and Some fire_10
+    21300022: Banners and Some fire_11
+    21300024: Banners and Some fire_12
+    21300026: Banners and Some fire_13
+    21300028: Banners and Some fire_14
+    21300030: Banners and Some fire_15
+    21300032: Banners and Some fire_16
+    21300034: Banners and Some fire_17
+    21300036: Banners and Some fire_18
+    21300038: Banners and Some fire_19
+    21300040: Banners and Some fire_20
+    21300042: Banners and Some fire_21
+    21300044: Banners and Some fire_22
+    21300046: Banners and Some fire_23
+    21300048: Banners and Some fire_24
+    21300050: Banners and Some fire_25
+    21300052: Banners and Some fire_26
+    21300054: Banners and Some fire_27
+    21300056: Banners and Some fire_28
+    21300058: Banners and Some fire_29
+    21300060: Banners and Some fire_30
+    21300062: Banners and Some fire_31
+    21300064: Banners and Some fire_32
+    21300066: Banners and Some fire_33
+    21300068: Banners and Some fire_34
+    21300070: Banners and Some fire_35
+    21300072: Banners and Some fire_36
+    21300074: Banners and Some fire_37
+    21300076: Banners and Some fire_38
+    21300078: Banners and Some fire_39
+    21300080: Banners and Some fire_40
+    21300082: Banners and Some fire_41
+    21300084: Banners and Some fire_42
+    21300086: Banners and Some fire_43
+    21300088: Banners and Some fire_44
+    21300090: Banners and Some fire_45
+    21300092: Banners and Some fire_46
+    21300094: Banners and Some fire_47
+    21300096: Banners and Some fire_48
+    21300098: Banners and Some fire_49
+    21300100: Banners and Some fire_50
+    21300102: Banners and Some fire_51
+    21300104: Banners and Some fire_52
+    21300106: Banners and Some fire_53
+    21300108: Banners and Some fire_54
+    21300110: Banners and Some fire_55
+    21300112: Banners and Some fire_56
+    21300114: Banners and Some fire_57
+    21300116: Banners and Some fire_58
+    21300118: Banners and Some fire_59
+    21300120: Banners and Some fire_60
+    21300122: Banners and Some fire_61
+    21300124: Banners and Some fire_62
+    21300126: Banners and Some fire_63
+    21300128: Banners and Some fire_64
+    21300130: Banners and Some fire_65
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Banners and Some fire_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 137
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 137
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 138
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 138
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 144
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_7
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 121
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 121
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 125
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 103
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 103
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_15
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 103
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 103
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 103
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 104
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_19
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 106
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 104
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 86
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 86
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 87
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_24
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 87
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 93
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_26
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_27
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_28
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_29
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 69
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 69
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 70
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_32
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 70
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 74
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_34
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_36
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 52
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_38
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 52
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_39
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 53
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_40
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 55
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_41
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 53
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_42
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_43
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_44
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 35
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_46
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 35
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_47
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 36
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_48
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 36
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_49
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 42
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_50
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 37
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_51
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 37
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 18
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_53
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 18
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_54
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 19
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_55
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 19
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_56
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 23
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_57
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 20
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_58
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 20
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_59
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_60
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_61
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_62
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 4
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_63
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_64
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banners and Some fire_65
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

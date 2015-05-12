@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: 0e2e0e1d7a5b51f419dd470d212fef14
+timeCreated: 1431450739
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Treasure tents and gravestones_0
+    21300002: Treasure tents and gravestones_1
+    21300004: Treasure tents and gravestones_2
+    21300006: Treasure tents and gravestones_3
+    21300008: Treasure tents and gravestones_4
+    21300010: Treasure tents and gravestones_5
+    21300012: Treasure tents and gravestones_6
+    21300014: Treasure tents and gravestones_7
+    21300016: Treasure tents and gravestones_8
+    21300018: Treasure tents and gravestones_9
+    21300020: Treasure tents and gravestones_10
+    21300022: Treasure tents and gravestones_11
+    21300024: Treasure tents and gravestones_12
+    21300026: Treasure tents and gravestones_13
+    21300028: Treasure tents and gravestones_14
+    21300030: Treasure tents and gravestones_15
+    21300032: Treasure tents and gravestones_16
+    21300034: Treasure tents and gravestones_17
+    21300036: Treasure tents and gravestones_18
+    21300038: Treasure tents and gravestones_19
+    21300040: Treasure tents and gravestones_20
+    21300042: Treasure tents and gravestones_21
+    21300044: Treasure tents and gravestones_22
+    21300046: Treasure tents and gravestones_23
+    21300048: Treasure tents and gravestones_24
+    21300050: Treasure tents and gravestones_25
+    21300052: Treasure tents and gravestones_26
+    21300054: Treasure tents and gravestones_27
+    21300056: Treasure tents and gravestones_28
+    21300058: Treasure tents and gravestones_29
+    21300060: Treasure tents and gravestones_30
+    21300062: Treasure tents and gravestones_31
+    21300064: Treasure tents and gravestones_32
+    21300066: Treasure tents and gravestones_33
+    21300068: Treasure tents and gravestones_34
+    21300070: Treasure tents and gravestones_35
+    21300072: Treasure tents and gravestones_36
+    21300074: Treasure tents and gravestones_37
+    21300076: Treasure tents and gravestones_38
+    21300078: Treasure tents and gravestones_39
+    21300080: Treasure tents and gravestones_40
+    21300082: Treasure tents and gravestones_41
+    21300084: Treasure tents and gravestones_42
+    21300086: Treasure tents and gravestones_43
+    21300088: Treasure tents and gravestones_44
+    21300090: Treasure tents and gravestones_45
+    21300092: Treasure tents and gravestones_46
+    21300094: Treasure tents and gravestones_47
+    21300096: Treasure tents and gravestones_48
+    21300098: Treasure tents and gravestones_49
+    21300100: Treasure tents and gravestones_50
+    21300102: Treasure tents and gravestones_51
+    21300104: Treasure tents and gravestones_52
+    21300106: Treasure tents and gravestones_53
+    21300108: Treasure tents and gravestones_54
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Treasure tents and gravestones_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 36
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 39
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 39
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 39
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 39
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 35
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 35
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 35
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 38
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_9
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 35
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 35
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 35
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_12
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 35
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 18
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 18
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 18
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 18
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 18
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_20
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 18
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_21
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 18
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_22
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 18
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_23
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 18
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_24
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 18
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_25
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 18
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 18
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_27
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 18
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_28
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_29
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 18
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_30
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 18
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_31
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 18
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_32
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 18
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_34
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_35
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_36
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_37
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_38
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_39
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_40
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_41
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_42
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_43
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_44
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_46
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_49
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_50
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_51
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_52
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_53
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Treasure tents and gravestones_54
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
