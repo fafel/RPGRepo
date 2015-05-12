@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 6070418527a52fd42a3884428d6f560d
-timeCreated: 1431451879
+timeCreated: 1431466577
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -120,7 +120,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: .25
     normalMapFilter: 0
-  isReadable: 0
+  isReadable: 1
   grayScaleToAlpha: 0
   generateCubemap: 0
   cubemapConvolution: 0
