@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 0e2e0e1d7a5b51f419dd470d212fef14
-timeCreated: 1431450739
+timeCreated: 1431544442
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -59,6 +59,8 @@ TextureImporter:
     21300104: Treasure tents and gravestones_52
     21300106: Treasure tents and gravestones_53
     21300108: Treasure tents and gravestones_54
+    21300110: Treasure tents and gravestones_55
+    21300112: Treasure tents and gravestones_56
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -74,7 +76,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: .25
     normalMapFilter: 0
-  isReadable: 0
+  isReadable: 1
   grayScaleToAlpha: 0
   generateCubemap: 0
   cubemapConvolution: 0
@@ -357,12 +359,12 @@ TextureImporter:
     - name: Treasure tents and gravestones_25
       rect:
         serializedVersion: 2
-        x: 223
+        x: 238
         y: 18
-        width: 32
+        width: 17
         height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Treasure tents and gravestones_26
       rect:
