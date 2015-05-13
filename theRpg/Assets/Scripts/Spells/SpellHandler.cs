@@ -49,6 +49,7 @@ public class SpellHandler : MonoBehaviour {
 		//dir = dir.normalized;
 
 		if (Input.GetButtonDown ("Fire1") && cd < 0 && Time.timeScale > 0) {
+			cd = 1.0f;
 			Transform t = Instantiate (projectile1) as Transform;
 			t.position = transform.position;
 			t.GetComponent<ProjectileScript>().direction = dir;
