@@ -14,7 +14,7 @@ public class SpellHandler : MonoBehaviour {
 
 	void Update(){
 
-		if (Input.GetButtonDown ("fire1")) {
+		if (Input.GetButtonDown ("Fire1")) {
 			if (spells[0] != null){
 				spells[0].Fire(transform.position);
 			}
