@@ -1,6 +1,10 @@
 fileFormatVersion: 2
 guid: 18ed50cd3f7a59d4dbcb55219842f0eb
+<<<<<<< HEAD
 timeCreated: 1431572432
+=======
+timeCreated: 1431543009
+>>>>>>> parent of d489f81... WEDNESDAY
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName: {}
