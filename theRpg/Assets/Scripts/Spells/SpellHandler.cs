@@ -53,6 +53,7 @@ public class SpellHandler : MonoBehaviour {
 			t.position = transform.position;
 			t.GetComponent<ProjectileScript>().direction = dir;
 			t.GetComponent<ProjectileScript>().speed = 10;
+			//cd = 0.25f;
 		}
 
 
