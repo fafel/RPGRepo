@@ -74,8 +74,11 @@ public class BasicMoveScript : MonoBehaviour {
 			break;
 		case Type.TargetMode:
 			if (Mathf.Abs (target.x - transform.position.x) < speed * 5 && 
-			    Mathf.Abs (target.y - transform.position.y) < speed * 5)
-				transform.position = Vector3.MoveTowards (transform.position, target, 5 * speed * Time.deltaTime);
+			    Mathf.Abs (target.y - transform.position.y) < speed * 5){
+				Vector3 mov = target - transform.position;
+				mov.Normalize();
+				transform.position += (mov * Time.deltaTime);
+			}
 			break;
 		}
 		Collider2D c = Physics2D.OverlapCircle (transform.position, 1.5f, player);

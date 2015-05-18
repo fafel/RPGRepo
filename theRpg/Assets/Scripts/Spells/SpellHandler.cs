@@ -49,10 +49,18 @@ public class SpellHandler : MonoBehaviour {
 		//dir = dir.normalized;
 
 		if (Input.GetButtonDown ("Fire1") && cd < 0 && Time.timeScale > 0) {
-			Transform t = Instantiate (projectile1) as Transform;
+			Transform t = Instantiate (projectile) as Transform;
 			t.position = transform.position;
-			t.GetComponent<ProjectileScript>().direction = dir;
-			t.GetComponent<ProjectileScript>().speed = 10;
+			if (t.GetComponent<ProjectileScript>() != null){
+				t.GetComponent<ProjectileScript>().direction = dir;
+				t.GetComponent<ProjectileScript>().speed = 10;
+			}
+			if (t.GetComponent<BarScript>() != null){
+				t.GetComponent<BarScript>().direction = dir;
+				var angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg - 90f;
+				t.transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
+				t.transform.position = t.transform.position + dir/5;
+			}
 			//cd = 0.25f;
 		}
 
