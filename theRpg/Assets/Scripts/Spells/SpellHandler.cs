@@ -7,7 +7,7 @@ using UnityEngine.Events;
 public class SpellHandler : MonoBehaviour {
 
 
-	private List<Spell> spells;
+//	private List<Spell> spells;
 
 	int spellSelected;
 
@@ -36,7 +36,7 @@ public class SpellHandler : MonoBehaviour {
 	float cd4;
 
 	void Start(){
-		spells = new List<Spell> ();
+//		spells = new List<Spell> ();
 		cd = 1.0f;
 		projectile = projectile1;
 	}
@@ -52,10 +52,22 @@ public class SpellHandler : MonoBehaviour {
 			projectile = projectile4;
 		}
 
-		cd1 -= Time.deltaTime;
-		cd2 -= Time.deltaTime;
-		cd3 -= Time.deltaTime;
-		cd4 -= Time.deltaTime;
+		if (cd1 > 0.1)
+			cd1 -= Time.deltaTime;
+		else 
+			cd1 = 0;
+		if (cd2 > 0.1)
+			cd2 -= Time.deltaTime;
+		else 
+			cd2 = 0;
+		if (cd3 > 0.1)
+			cd3 -= Time.deltaTime;
+		else 
+			cd3 = 0;
+		if (cd4 > 0.1)
+			cd4 -= Time.deltaTime;
+		else
+			cd4 = 0;
 
 		cdText1.text = "" + cd1;
 		cdText2.text = "" + cd2;
@@ -63,20 +75,15 @@ public class SpellHandler : MonoBehaviour {
 		cdText4.text = "" + cd4;
 
 
-		switch (projectile) {
-		case projectile1:
+		if (projectile == projectile1)
 			cd = cd1;
-			break;
-		case projectile2:
+		else if (projectile == projectile2)
 			cd = cd2;
-			break;
-		case projectile3:
+		else if (projectile == projectile3)
 			cd = cd3;
-			break;
-		case projectile4:
+		else if (projectile == projectile4)
 			cd = cd4;
-			break;
-		}
+	
 
 		Vector3 dir = Camera.main.ScreenToWorldPoint (Input.mousePosition) - transform.position;
 		//var angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg - 90f;
@@ -87,7 +94,7 @@ public class SpellHandler : MonoBehaviour {
 
 		//dir = dir.normalized;
 
-		if (Input.GetButtonDown ("Fire1") && cd < 0 && Time.timeScale > 0) {
+		if (Input.GetButtonDown ("Fire1") && cd <= 0 && Time.timeScale > 0) {
 			Transform t = Instantiate (projectile) as Transform;
 			t.position = transform.position;
 			if (t.GetComponent<ProjectileScript>() != null){
@@ -100,22 +107,16 @@ public class SpellHandler : MonoBehaviour {
 				t.transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
 				t.transform.position = t.transform.position + dir/5;
 			}
-			//cd = 0.25f;
+			cd = 0.25f;
 
-			switch (projectile) {
-			case projectile1:
+			if (projectile == projectile1)
 				cd1 = cdone;
-				break;
-			case projectile2:
+			else if (projectile == projectile2)
 				cd2 = cdtwo;
-				break;
-			case projectile3:
+			else if (projectile == projectile3)
 				cd3 = cdthree;
-				break;
-			case projectile4:
+			else if (projectile == projectile4)
 				cd4 = cdfour;
-				break;
-			}
 		}
 
 
