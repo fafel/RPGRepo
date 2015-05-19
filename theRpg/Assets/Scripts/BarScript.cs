@@ -31,13 +31,13 @@ public class BarScript : MonoBehaviour {
 	}
 
 	public void OnTriggerEnter2D(Collider2D coll) {
-		//if (coll.gameObject.tag == "Enemy") {
+		if (coll.gameObject.tag == "Enemy") {
 			HealthScript hp = coll.gameObject.GetComponent<HealthScript>();
 			if (hp != null)
 				hp.Damage(10);
 			Transform t = Instantiate (explosion) as Transform;
 			t.position = transform.position;
-		//}
+		}
 		//Transform ta = Instantiate (explosion) as Transform;
 		//ta.position = transform.position;
 	}

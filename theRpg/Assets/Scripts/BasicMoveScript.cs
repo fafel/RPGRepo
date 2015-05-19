@@ -17,6 +17,7 @@ public class BasicMoveScript : MonoBehaviour {
 	private bool there;
 
 	Vector3 target;
+	Transform targetTrans;
 
 	float x = 0;
 
@@ -79,12 +80,26 @@ public class BasicMoveScript : MonoBehaviour {
 				mov.Normalize();
 				transform.position += (mov * Time.deltaTime);
 			}
+
+			if (target.x < transform.position.x && there == true){
+				anim.SetTrigger("RunLeft");
+				there = false;
+			} else if (target.x > transform.position.x && there == false){
+				there = true;
+				anim.SetTrigger("RunRight");
+			}
+
+
 			break;
 		}
 		Collider2D c = Physics2D.OverlapCircle (transform.position, 1.5f, player);
-		if (c != null) {
+		if (c != null && targetTrans == null) {
+			targetTrans = c.gameObject.transform;
 			target = c.gameObject.transform.position;
 			type = Type.TargetMode;
+		}
+		if (targetTrans != null) {
+			target = targetTrans.position;
 		}
 	}
 
