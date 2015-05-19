@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 080b6dc04bb08c643aa5cb6e7c0e8782
-timeCreated: 1431451400
+timeCreated: 1432056617
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -216,7 +216,7 @@ TextureImporter:
         width: 80
         height: 83
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: FireSHeet_8
       rect:
@@ -226,7 +226,7 @@ TextureImporter:
         width: 82
         height: 85
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: FireSHeet_9
       rect:
@@ -316,7 +316,7 @@ TextureImporter:
         width: 95
         height: 99
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: FireSHeet_18
       rect:

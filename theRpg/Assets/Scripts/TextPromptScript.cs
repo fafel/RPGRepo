@@ -7,6 +7,8 @@ public class TextPromptScript : MonoBehaviour {
 
 	public float radius;
 	public string text;
+	public Sprite img;
+	public Image image;
 	public LayerMask player;
 	public Text textT;
 
@@ -22,6 +24,8 @@ public class TextPromptScript : MonoBehaviour {
 		if (col != null) {
 			stoped = true;
 			Time.timeScale = 0.0f;
+			image.gameObject.SetActive(true);
+			image.sprite = img;
 			textT.text = text;
 		}
 	}
@@ -33,6 +37,7 @@ public class TextPromptScript : MonoBehaviour {
 					textT.text = "";
 					Time.timeScale = 1.0f;
 					stoped = false;
+					image.gameObject.SetActive(false);
 					Destroy (transform.gameObject);
 				}
 			}
