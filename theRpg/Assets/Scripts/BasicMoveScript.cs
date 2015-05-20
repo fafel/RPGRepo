@@ -9,17 +9,21 @@ public class BasicMoveScript : MonoBehaviour {
 	public enum Type {UpDown, LefRight, Circle, TargetMode} 
 	public Type type;
 	public int length;
+	public int dmg = 5;
 	public float speed;
 	public LayerMask player;
 
 	Vector3 p1;
 	Vector3 p2;
 	private bool there;
+	private bool up = false;
 
 	Vector3 target;
 	Transform targetTrans;
 
 	float x = 0;
+
+	bool attack = false;
 
 
 	void Start(){
@@ -74,20 +78,52 @@ public class BasicMoveScript : MonoBehaviour {
 
 			break;
 		case Type.TargetMode:
-			if (Mathf.Abs (target.x - transform.position.x) < speed * 5 && 
-			    Mathf.Abs (target.y - transform.position.y) < speed * 5){
+
+			if (attack){
+				Collider2D col = Physics2D.OverlapCircle (transform.position, 0.3f, player);
+				if (col != null){
+					HealthScript hp = col.gameObject.GetComponent<HealthScript>();
+					if (hp != null){
+						hp.Damage(dmg * Time.deltaTime);
+					}
+				}
+			}
+
+			if (Mathf.Abs (target.x - transform.position.x) > 0.3f || 
+			    Mathf.Abs (target.y - transform.position.y) > 0.3f ){
 				Vector3 mov = target - transform.position;
 				mov.Normalize();
 				transform.position += (mov * Time.deltaTime);
+				if (attack){
+					there = !there;
+				}
+			} else if (!attack){
+				anim.SetTrigger("Attack");
+				attack = true;
 			}
 
-			if (target.x < transform.position.x && there == true){
-				anim.SetTrigger("RunLeft");
-				there = false;
-			} else if (target.x > transform.position.x && there == false){
-				there = true;
-				anim.SetTrigger("RunRight");
+			if (Mathf.Abs(target.x - transform.position.x) > Mathf.Abs (target.y - transform.position.y)){
+				if (target.x < transform.position.x && there == true){
+					anim.SetTrigger("RunLeft");
+					attack = false;
+					there = false;
+				} else if (target.x > transform.position.x && there == false){
+					there = true;
+					attack = false;
+					anim.SetTrigger("RunRight");
+				}
+			} else {
+				if (target.y > transform.position.y && up == true){
+					anim.SetTrigger("RunUp");
+					attack = false;
+					up = false;
+				} else if (target.y < transform.position.y && up == false){
+					up = true;
+					attack = false;
+					anim.SetTrigger("Run");
+				}
 			}
+
 
 
 			break;
@@ -96,6 +132,8 @@ public class BasicMoveScript : MonoBehaviour {
 		if (c != null && targetTrans == null) {
 			targetTrans = c.gameObject.transform;
 			target = c.gameObject.transform.position;
+			anim.SetTrigger("RunLeft");
+			there = false;
 			type = Type.TargetMode;
 		}
 		if (targetTrans != null) {
