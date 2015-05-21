@@ -22,6 +22,8 @@ public class ShotSpawnerScript : MonoBehaviour {
 	private bool up;
 	private float time = 1.0f;
 
+	public AnimationCurve a;
+
 	// Use this for initialization
 	void Start () {
 		timer = frequency;
