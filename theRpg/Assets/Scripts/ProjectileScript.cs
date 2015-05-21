@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections;
 
 public class ProjectileScript : MonoBehaviour {
 
@@ -7,8 +8,10 @@ public class ProjectileScript : MonoBehaviour {
 	public Vector3 direction;
 	public int speed;
 	public Transform explosion;
-	public LayerMask enemy;
+	//public LayerMask enemy;
 	public float fuse;
+
+	public LayerMask[] enemys;
 
 	public Transform cantHit;
 
@@ -21,7 +24,16 @@ public class ProjectileScript : MonoBehaviour {
 	void Update(){
 		fuse -= Time.deltaTime;
 		transform.position = transform.position + (direction * Time.deltaTime) * speed;
-		Collider2D col = Physics2D.OverlapCircle (transform.position, .05f, enemy);
+		Collider2D col = null;
+		for (int i = 0; i < enemys.Length; i++) {
+			if (col != null)
+				break;
+			else if (col == null){
+				col = Physics2D.OverlapCircle (transform.position, 0.05f, enemys[i]);
+			}
+		}
+
+
 		if (col != null && fuse < 0 && (cantHit == null || col.gameObject != cantHit.gameObject)) {
 			HealthScript hs = col.gameObject.GetComponent<HealthScript>();
 			if (hs != null){
