@@ -23,6 +23,8 @@ public class HealthScript : MonoBehaviour {
 		return 0;
 	}
 
+    public bool dead = false;
+
 
 	public void Update(){
 		if (hp < 0)
@@ -30,15 +32,20 @@ public class HealthScript : MonoBehaviour {
 
 		health = (int)hp;
 
-		if (health <= 0 && die) {
-			Transform t = Instantiate (explosion) as Transform;
-			t.position = transform.position;
-			Destroy(transform.gameObject);
+		if (health <= 0 && die && !dead) {
+			OnDeath();
+			dead = true;
 		}
 		if (img != null) {
 			img.gameObject.transform.localScale = new Vector3(health * 4, 1, 1);
 		}
 
+	}
+
+	public virtual void OnDeath(){
+		Transform t = Instantiate (explosion) as Transform;
+		t.position = transform.position;
+		Destroy(transform.gameObject);
 	}
 
 }
