@@ -11,7 +11,7 @@ public class ShotSpawnerScript : MonoBehaviour {
 
 	public Vector3 direction;
 
-	public LayerMask target;
+	public LayerMask[] targets;
 
 	public float speed = 1.0f;
 
@@ -22,7 +22,7 @@ public class ShotSpawnerScript : MonoBehaviour {
 	private bool up;
 	private float time = 1.0f;
 
-	public AnimationCurve a;
+	private int dog;
 
 	// Use this for initialization
 	void Start () {
@@ -55,7 +55,7 @@ public class ShotSpawnerScript : MonoBehaviour {
 		ProjectileScript ps = t.GetComponent<ProjectileScript> ();
 		if (ps != null) {
 			ps.direction = direction;
-			ps.enemy = target;
+			ps.enemys = targets;
 			ps.speed = (int)speed;
 		}
 	}
