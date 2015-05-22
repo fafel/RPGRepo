@@ -43,9 +43,11 @@ public class HealthScript : MonoBehaviour {
 	}
 
 	public virtual void OnDeath(){
-		Transform t = Instantiate (explosion) as Transform;
-		t.position = transform.position;
-		Destroy(transform.gameObject);
+		if (explosion != null) {
+			Transform t = Instantiate (explosion) as Transform;
+			t.position = transform.position;
+			Destroy (transform.gameObject);
+		}
 	}
 
 }
