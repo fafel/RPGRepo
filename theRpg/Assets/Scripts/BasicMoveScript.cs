@@ -18,13 +18,21 @@ public class BasicMoveScript : MonoBehaviour {
 	private bool there;
 	private bool up = false;
 
-	Vector3 target;
+	Vector3 target { get; set; }
+
+	public Vector3 GetTarget(){
+		return target;
+	}
+
 	Transform targetTrans;
 
 	float x = 0;
 
 	bool attack = false;
 
+	public float attackDistance = 0.3f;
+
+	public float direction = 0;
 
 	void Start(){
 		anim = transform.gameObject.GetComponent<Animator> ();
@@ -39,6 +47,7 @@ public class BasicMoveScript : MonoBehaviour {
 	}
 
 	void Update(){
+		TimeStuff ();
 		switch (type) {
 		case Type.LefRight:
 			if (there){
@@ -46,12 +55,14 @@ public class BasicMoveScript : MonoBehaviour {
 				if (transform.position.x > p2.x){
 					there = false;
 					anim.SetTrigger("RunLeft");
+					direction = 0;
 				}
 			}else {
 				transform.position += new Vector3(-1, 0, 0) * speed * Time.deltaTime;
 				if (transform.position.x < p1.x){
 					there = true;
 					anim.SetTrigger("RunRight");
+					direction = 180;
 				}
 			}
 			break;
@@ -61,12 +72,14 @@ public class BasicMoveScript : MonoBehaviour {
 				if (transform.position.y > p2.y){
 					there = false;
 					anim.SetTrigger("Run");
+					direction = 270;
 				}
 			}else {
 				transform.position += new Vector3(0, -1, 0) * speed * Time.deltaTime;
 				if (transform.position.y < p1.y){
 					there = true;
 					anim.SetTrigger("RunUp");
+					direction = 90;
 				}
 			}
 			break;
@@ -80,17 +93,14 @@ public class BasicMoveScript : MonoBehaviour {
 		case Type.TargetMode:
 
 			if (attack){
-				Collider2D col = Physics2D.OverlapCircle (transform.position, 0.3f, player);
-				if (col != null){
-					HealthScript hp = col.gameObject.GetComponent<HealthScript>();
-					if (hp != null){
-						hp.Damage(dmg * Time.deltaTime);
-					}
+				Attack(direction);
+				if ((Mathf.Abs (target.x - transform.position.x) > attackDistance || 
+				    Mathf.Abs (target.y - transform.position.y) > attackDistance )){
+					attack = false;
+					there = !there;
 				}
-			}
-
-			if (Mathf.Abs (target.x - transform.position.x) > 0.3f || 
-			    Mathf.Abs (target.y - transform.position.y) > 0.3f ){
+			} else	if (Mathf.Abs (target.x - transform.position.x) > attackDistance || 
+			    Mathf.Abs (target.y - transform.position.y) > attackDistance ){
 				Vector3 mov = target - transform.position;
 				mov.Normalize();
 				transform.position += (mov * Time.deltaTime);
@@ -105,22 +115,26 @@ public class BasicMoveScript : MonoBehaviour {
 			if (Mathf.Abs(target.x - transform.position.x) > Mathf.Abs (target.y - transform.position.y)){
 				if (target.x < transform.position.x && there == true){
 					anim.SetTrigger("RunLeft");
+					direction = 0;
 					attack = false;
 					there = false;
 				} else if (target.x > transform.position.x && there == false){
 					there = true;
 					attack = false;
 					anim.SetTrigger("RunRight");
+					direction = 180;
 				}
 			} else {
 				if (target.y > transform.position.y && up == true){
 					anim.SetTrigger("RunUp");
+					direction = 270;
 					attack = false;
 					up = false;
 				} else if (target.y < transform.position.y && up == false){
 					up = true;
 					attack = false;
 					anim.SetTrigger("Run");
+					direction = 90;
 				}
 			}
 
@@ -142,7 +156,18 @@ public class BasicMoveScript : MonoBehaviour {
 	}
 
 
+	public virtual void Attack(float direction){
+		Collider2D col = Physics2D.OverlapCircle (transform.position, 0.15f, player);
+		if (col != null){
+			HealthScript hp = col.gameObject.GetComponent<HealthScript>();
+			if (hp != null){
+				hp.Damage(dmg * Time.deltaTime);
+			}
+		}
+	}
 
+	public virtual void TimeStuff(){
 
+	}
 
 }
