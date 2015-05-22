@@ -1,13 +1,6 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
 guid: 3ac39ee913a305449a448f025dceef4e
-timeCreated: 1432242479
-licenseType: Free
-TextureImporter:
-  fileIDToRecycleName: {}
-=======
-guid: c2060826f9e921f46bab863a74957cbb
-timeCreated: 1432314114
+timeCreated: 1432324005
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -132,74 +125,63 @@ TextureImporter:
     21300236: ork_118
     21300238: ork_119
     21300240: ork_120
-    21300242: ork_121
-    21300244: ork_122
-    21300246: ork_123
-    21300248: ork_124
-    21300250: ork_125
-    21300252: ork_126
-    21300254: ork_127
-    21300256: ork_128
-    21300258: ork_129
-    21300260: ork_130
-    21300262: ork_131
-    21300264: ork_132
-    21300266: ork_133
-    21300268: ork_134
-    21300270: ork_135
-    21300272: ork_136
-    21300274: ork_137
-    21300276: ork_138
-    21300278: ork_139
-    21300280: ork_140
-    21300282: ork_141
-    21300284: ork_142
-    21300286: ork_143
-    21300288: ork_144
-    21300290: ork_145
-    21300292: ork_146
-    21300294: ork_147
-    21300296: ork_148
-    21300298: ork_149
-    21300300: ork_150
-    21300302: ork_151
-    21300304: ork_152
-    21300306: ork_153
-    21300308: ork_154
-    21300310: ork_155
-    21300312: ork_156
-    21300314: ork_157
-    21300316: ork_158
-    21300318: ork_159
-    21300320: ork_160
-    21300322: ork_161
-    21300324: ork_162
-    21300326: ork_163
-    21300328: ork_164
-    21300330: ork_165
-    21300332: ork_166
-    21300334: ork_167
-    21300336: ork_168
-    21300338: ork_169
-    21300340: ork_170
-    21300342: ork_171
-    21300344: ork_172
-    21300346: ork_173
-    21300348: ork_174
-    21300350: ork_175
-    21300352: ork_176
-    21300354: ork_177
-    21300356: ork_178
-    21300358: ork_179
-    21300360: ork_180
-    21300362: ork_181
-    21300364: ork_182
-    21300366: ork_183
-    21300368: ork_184
-    21300370: ork_185
-    21300372: ork_186
-    21300374: ork_187
->>>>>>> origin/master
+    21300242: ork_131
+    21300244: ork_132
+    21300246: ork_133
+    21300248: ork_134
+    21300250: ork_135
+    21300252: ork_136
+    21300254: ork_137
+    21300256: ork_138
+    21300258: ork_139
+    21300260: ork_140
+    21300262: ork_141
+    21300264: ork_142
+    21300266: ork_143
+    21300268: ork_144
+    21300270: ork_145
+    21300272: ork_146
+    21300274: ork_147
+    21300276: ork_148
+    21300278: ork_149
+    21300280: ork_150
+    21300282: ork_151
+    21300284: ork_152
+    21300286: ork_153
+    21300288: ork_154
+    21300290: ork_155
+    21300292: ork_156
+    21300294: ork_157
+    21300296: ork_158
+    21300298: ork_159
+    21300300: ork_160
+    21300302: ork_161
+    21300304: ork_162
+    21300306: ork_163
+    21300308: ork_164
+    21300310: ork_165
+    21300312: ork_166
+    21300314: ork_167
+    21300316: ork_168
+    21300318: ork_169
+    21300320: ork_170
+    21300322: ork_171
+    21300324: ork_172
+    21300326: ork_173
+    21300328: ork_174
+    21300330: ork_175
+    21300332: ork_176
+    21300334: ork_177
+    21300336: ork_178
+    21300338: ork_179
+    21300340: ork_180
+    21300342: ork_181
+    21300344: ork_182
+    21300346: ork_183
+    21300348: ork_184
+    21300350: ork_185
+    21300352: ork_186
+    21300354: ork_187
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -225,24 +207,15 @@ TextureImporter:
   textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
-<<<<<<< HEAD
     filterMode: -1
-    aniso: -1
-=======
-    filterMode: 0
     aniso: 16
->>>>>>> origin/master
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
-<<<<<<< HEAD
-  spriteMode: 1
-=======
   spriteMode: 2
->>>>>>> origin/master
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -253,9 +226,6 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-<<<<<<< HEAD
-    sprites: []
-=======
     sprites:
     - name: ork_0
       rect:
@@ -265,7 +235,7 @@ TextureImporter:
         width: 30
         height: 43
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_1
       rect:
@@ -275,7 +245,7 @@ TextureImporter:
         width: 30
         height: 43
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_2
       rect:
@@ -285,7 +255,7 @@ TextureImporter:
         width: 28
         height: 43
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_3
       rect:
@@ -295,7 +265,7 @@ TextureImporter:
         width: 36
         height: 43
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_4
       rect:
@@ -305,7 +275,7 @@ TextureImporter:
         width: 50
         height: 43
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_5
       rect:
@@ -315,7 +285,7 @@ TextureImporter:
         width: 48
         height: 43
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_6
       rect:
@@ -325,7 +295,7 @@ TextureImporter:
         width: 36
         height: 43
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_7
       rect:
@@ -335,7 +305,7 @@ TextureImporter:
         width: 20
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_8
       rect:
@@ -345,7 +315,7 @@ TextureImporter:
         width: 23
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_9
       rect:
@@ -355,7 +325,7 @@ TextureImporter:
         width: 21
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_10
       rect:
@@ -365,7 +335,7 @@ TextureImporter:
         width: 26
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_11
       rect:
@@ -375,7 +345,7 @@ TextureImporter:
         width: 33
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_12
       rect:
@@ -385,7 +355,7 @@ TextureImporter:
         width: 33
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_13
       rect:
@@ -395,7 +365,7 @@ TextureImporter:
         width: 28
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_14
       rect:
@@ -405,7 +375,7 @@ TextureImporter:
         width: 30
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_15
       rect:
@@ -415,7 +385,7 @@ TextureImporter:
         width: 30
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_16
       rect:
@@ -425,7 +395,7 @@ TextureImporter:
         width: 28
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_17
       rect:
@@ -435,7 +405,7 @@ TextureImporter:
         width: 36
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_18
       rect:
@@ -445,7 +415,7 @@ TextureImporter:
         width: 50
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_19
       rect:
@@ -455,7 +425,7 @@ TextureImporter:
         width: 48
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_20
       rect:
@@ -465,7 +435,7 @@ TextureImporter:
         width: 34
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_21
       rect:
@@ -475,7 +445,7 @@ TextureImporter:
         width: 20
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_22
       rect:
@@ -485,7 +455,7 @@ TextureImporter:
         width: 23
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_23
       rect:
@@ -495,7 +465,7 @@ TextureImporter:
         width: 21
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_24
       rect:
@@ -505,7 +475,7 @@ TextureImporter:
         width: 26
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_25
       rect:
@@ -515,7 +485,7 @@ TextureImporter:
         width: 33
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_26
       rect:
@@ -525,7 +495,7 @@ TextureImporter:
         width: 33
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_27
       rect:
@@ -535,7 +505,7 @@ TextureImporter:
         width: 28
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_28
       rect:
@@ -545,7 +515,7 @@ TextureImporter:
         width: 30
         height: 43
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_29
       rect:
@@ -555,7 +525,7 @@ TextureImporter:
         width: 26
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_30
       rect:
@@ -565,7 +535,7 @@ TextureImporter:
         width: 24
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_31
       rect:
@@ -575,7 +545,7 @@ TextureImporter:
         width: 24
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_32
       rect:
@@ -585,7 +555,7 @@ TextureImporter:
         width: 24
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_33
       rect:
@@ -595,7 +565,7 @@ TextureImporter:
         width: 24
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_34
       rect:
@@ -605,7 +575,7 @@ TextureImporter:
         width: 24
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_35
       rect:
@@ -615,7 +585,7 @@ TextureImporter:
         width: 24
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_36
       rect:
@@ -625,7 +595,7 @@ TextureImporter:
         width: 20
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_37
       rect:
@@ -635,7 +605,7 @@ TextureImporter:
         width: 25
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_38
       rect:
@@ -645,7 +615,7 @@ TextureImporter:
         width: 27
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_39
       rect:
@@ -655,7 +625,7 @@ TextureImporter:
         width: 25
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_40
       rect:
@@ -665,7 +635,7 @@ TextureImporter:
         width: 27
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_41
       rect:
@@ -675,7 +645,7 @@ TextureImporter:
         width: 30
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_42
       rect:
@@ -685,7 +655,7 @@ TextureImporter:
         width: 27
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_43
       rect:
@@ -695,7 +665,7 @@ TextureImporter:
         width: 25
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_44
       rect:
@@ -705,7 +675,7 @@ TextureImporter:
         width: 30
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_45
       rect:
@@ -715,7 +685,7 @@ TextureImporter:
         width: 25
         height: 44
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_46
       rect:
@@ -725,7 +695,7 @@ TextureImporter:
         width: 24
         height: 44
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_47
       rect:
@@ -735,7 +705,7 @@ TextureImporter:
         width: 26
         height: 44
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_48
       rect:
@@ -745,7 +715,7 @@ TextureImporter:
         width: 24
         height: 44
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_49
       rect:
@@ -755,7 +725,7 @@ TextureImporter:
         width: 24
         height: 44
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_50
       rect:
@@ -765,7 +735,7 @@ TextureImporter:
         width: 24
         height: 44
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_51
       rect:
@@ -775,7 +745,7 @@ TextureImporter:
         width: 26
         height: 46
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_52
       rect:
@@ -785,7 +755,7 @@ TextureImporter:
         width: 20
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_53
       rect:
@@ -795,7 +765,7 @@ TextureImporter:
         width: 25
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_54
       rect:
@@ -805,7 +775,7 @@ TextureImporter:
         width: 27
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_55
       rect:
@@ -815,7 +785,7 @@ TextureImporter:
         width: 25
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_56
       rect:
@@ -825,7 +795,7 @@ TextureImporter:
         width: 27
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_57
       rect:
@@ -835,7 +805,7 @@ TextureImporter:
         width: 30
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_58
       rect:
@@ -845,7 +815,7 @@ TextureImporter:
         width: 27
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_59
       rect:
@@ -855,7 +825,7 @@ TextureImporter:
         width: 25
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_60
       rect:
@@ -865,7 +835,7 @@ TextureImporter:
         width: 30
         height: 43
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_61
       rect:
@@ -875,7 +845,7 @@ TextureImporter:
         width: 30
         height: 43
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_62
       rect:
@@ -885,7 +855,7 @@ TextureImporter:
         width: 30
         height: 44
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_63
       rect:
@@ -895,7 +865,7 @@ TextureImporter:
         width: 29
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_64
       rect:
@@ -905,7 +875,7 @@ TextureImporter:
         width: 30
         height: 44
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_65
       rect:
@@ -915,7 +885,7 @@ TextureImporter:
         width: 30
         height: 43
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_66
       rect:
@@ -925,7 +895,7 @@ TextureImporter:
         width: 30
         height: 44
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_67
       rect:
@@ -935,7 +905,7 @@ TextureImporter:
         width: 29
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_68
       rect:
@@ -945,7 +915,7 @@ TextureImporter:
         width: 30
         height: 44
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_69
       rect:
@@ -955,7 +925,7 @@ TextureImporter:
         width: 20
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_70
       rect:
@@ -965,7 +935,7 @@ TextureImporter:
         width: 25
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_71
       rect:
@@ -975,7 +945,7 @@ TextureImporter:
         width: 22
         height: 41
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_72
       rect:
@@ -985,7 +955,7 @@ TextureImporter:
         width: 22
         height: 41
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_73
       rect:
@@ -995,7 +965,7 @@ TextureImporter:
         width: 24
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_74
       rect:
@@ -1005,7 +975,7 @@ TextureImporter:
         width: 28
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_75
       rect:
@@ -1015,7 +985,7 @@ TextureImporter:
         width: 23
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_76
       rect:
@@ -1025,7 +995,7 @@ TextureImporter:
         width: 22
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_77
       rect:
@@ -1035,7 +1005,7 @@ TextureImporter:
         width: 21
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_78
       rect:
@@ -1045,7 +1015,7 @@ TextureImporter:
         width: 30
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_79
       rect:
@@ -1055,7 +1025,7 @@ TextureImporter:
         width: 30
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_80
       rect:
@@ -1065,7 +1035,7 @@ TextureImporter:
         width: 30
         height: 46
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_81
       rect:
@@ -1075,7 +1045,7 @@ TextureImporter:
         width: 29
         height: 46
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_82
       rect:
@@ -1085,7 +1055,7 @@ TextureImporter:
         width: 30
         height: 46
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_83
       rect:
@@ -1095,7 +1065,7 @@ TextureImporter:
         width: 30
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_84
       rect:
@@ -1105,7 +1075,7 @@ TextureImporter:
         width: 30
         height: 46
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_85
       rect:
@@ -1115,7 +1085,7 @@ TextureImporter:
         width: 29
         height: 46
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_86
       rect:
@@ -1125,7 +1095,7 @@ TextureImporter:
         width: 30
         height: 46
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_87
       rect:
@@ -1135,7 +1105,7 @@ TextureImporter:
         width: 20
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_88
       rect:
@@ -1145,7 +1115,7 @@ TextureImporter:
         width: 25
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_89
       rect:
@@ -1155,7 +1125,7 @@ TextureImporter:
         width: 22
         height: 41
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_90
       rect:
@@ -1165,7 +1135,7 @@ TextureImporter:
         width: 22
         height: 41
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_91
       rect:
@@ -1175,7 +1145,7 @@ TextureImporter:
         width: 24
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_92
       rect:
@@ -1185,7 +1155,7 @@ TextureImporter:
         width: 28
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_93
       rect:
@@ -1195,7 +1165,7 @@ TextureImporter:
         width: 23
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_94
       rect:
@@ -1205,7 +1175,7 @@ TextureImporter:
         width: 22
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_95
       rect:
@@ -1215,7 +1185,7 @@ TextureImporter:
         width: 21
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_96
       rect:
@@ -1225,7 +1195,7 @@ TextureImporter:
         width: 30
         height: 41
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_97
       rect:
@@ -1235,7 +1205,7 @@ TextureImporter:
         width: 29
         height: 40
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_98
       rect:
@@ -1245,7 +1215,7 @@ TextureImporter:
         width: 28
         height: 40
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_99
       rect:
@@ -1255,7 +1225,7 @@ TextureImporter:
         width: 29
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_100
       rect:
@@ -1265,7 +1235,7 @@ TextureImporter:
         width: 36
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_101
       rect:
@@ -1275,7 +1245,7 @@ TextureImporter:
         width: 39
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_102
       rect:
@@ -1285,7 +1255,7 @@ TextureImporter:
         width: 20
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_103
       rect:
@@ -1295,7 +1265,7 @@ TextureImporter:
         width: 25
         height: 40
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_104
       rect:
@@ -1305,7 +1275,7 @@ TextureImporter:
         width: 24
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_105
       rect:
@@ -1315,7 +1285,7 @@ TextureImporter:
         width: 34
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_106
       rect:
@@ -1325,7 +1295,7 @@ TextureImporter:
         width: 36
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_107
       rect:
@@ -1335,7 +1305,7 @@ TextureImporter:
         width: 33
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_108
       rect:
@@ -1345,7 +1315,7 @@ TextureImporter:
         width: 30
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_109
       rect:
@@ -1355,7 +1325,7 @@ TextureImporter:
         width: 28
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_110
       rect:
@@ -1365,7 +1335,7 @@ TextureImporter:
         width: 27
         height: 43
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_111
       rect:
@@ -1375,7 +1345,7 @@ TextureImporter:
         width: 27
         height: 44
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_112
       rect:
@@ -1385,7 +1355,7 @@ TextureImporter:
         width: 35
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_113
       rect:
@@ -1395,7 +1365,7 @@ TextureImporter:
         width: 39
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_114
       rect:
@@ -1405,7 +1375,7 @@ TextureImporter:
         width: 20
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_115
       rect:
@@ -1415,7 +1385,7 @@ TextureImporter:
         width: 25
         height: 40
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_116
       rect:
@@ -1425,7 +1395,7 @@ TextureImporter:
         width: 24
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_117
       rect:
@@ -1435,7 +1405,7 @@ TextureImporter:
         width: 34
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_118
       rect:
@@ -1445,7 +1415,7 @@ TextureImporter:
         width: 36
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_119
       rect:
@@ -1455,7 +1425,7 @@ TextureImporter:
         width: 33
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_120
       rect:
@@ -1465,17 +1435,7 @@ TextureImporter:
         width: 41
         height: 52
       alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: ork_130
-      rect:
-        serializedVersion: 2
-        x: 793
-        y: 303
-        width: 7
-        height: 15
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_131
       rect:
@@ -1485,7 +1445,7 @@ TextureImporter:
         width: 40
         height: 41
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_132
       rect:
@@ -1495,15 +1455,15 @@ TextureImporter:
         width: 41
         height: 47
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_133
       rect:
         serializedVersion: 2
         x: 211
         y: 256
-        width: 23
-        height: 60
+        width: 25
+        height: 59
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1512,8 +1472,8 @@ TextureImporter:
         serializedVersion: 2
         x: 275
         y: 256
-        width: 28
-        height: 62
+        width: 29
+        height: 63
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1522,7 +1482,7 @@ TextureImporter:
         serializedVersion: 2
         x: 339
         y: 256
-        width: 24
+        width: 31
         height: 63
       alignment: 0
       pivot: {x: .5, y: .5}
@@ -1532,8 +1492,8 @@ TextureImporter:
         serializedVersion: 2
         x: 403
         y: 256
-        width: 25
-        height: 62
+        width: 26
+        height: 63
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1542,7 +1502,7 @@ TextureImporter:
         serializedVersion: 2
         x: 467
         y: 256
-        width: 27
+        width: 29
         height: 61
       alignment: 0
       pivot: {x: .5, y: .5}
@@ -1552,8 +1512,8 @@ TextureImporter:
         serializedVersion: 2
         x: 531
         y: 256
-        width: 28
-        height: 58
+        width: 29
+        height: 61
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1562,18 +1522,18 @@ TextureImporter:
         serializedVersion: 2
         x: 595
         y: 256
-        width: 28
-        height: 62
+        width: 29
+        height: 64
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_140
       rect:
         serializedVersion: 2
-        x: 659
+        x: 660
         y: 256
-        width: 24
-        height: 63
+        width: 26
+        height: 64
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1582,7 +1542,7 @@ TextureImporter:
         serializedVersion: 2
         x: 723
         y: 256
-        width: 20
+        width: 25
         height: 63
       alignment: 0
       pivot: {x: .5, y: .5}
@@ -1592,8 +1552,8 @@ TextureImporter:
         serializedVersion: 2
         x: 787
         y: 256
-        width: 24
-        height: 44
+        width: 27
+        height: 63
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1605,7 +1565,7 @@ TextureImporter:
         width: 52
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_144
       rect:
@@ -1615,7 +1575,7 @@ TextureImporter:
         width: 41
         height: 44
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_145
       rect:
@@ -1625,7 +1585,7 @@ TextureImporter:
         width: 41
         height: 47
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_146
       rect:
@@ -1635,7 +1595,7 @@ TextureImporter:
         width: 44
         height: 48
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_147
       rect:
@@ -1645,7 +1605,7 @@ TextureImporter:
         width: 35
         height: 53
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_148
       rect:
@@ -1655,7 +1615,7 @@ TextureImporter:
         width: 32
         height: 55
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_149
       rect:
@@ -1665,7 +1625,7 @@ TextureImporter:
         width: 34
         height: 57
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_150
       rect:
@@ -1675,7 +1635,7 @@ TextureImporter:
         width: 36
         height: 54
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_151
       rect:
@@ -1685,7 +1645,7 @@ TextureImporter:
         width: 38
         height: 52
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_152
       rect:
@@ -1695,7 +1655,7 @@ TextureImporter:
         width: 35
         height: 53
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_153
       rect:
@@ -1705,7 +1665,7 @@ TextureImporter:
         width: 34
         height: 53
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_154
       rect:
@@ -1715,7 +1675,7 @@ TextureImporter:
         width: 30
         height: 53
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_155
       rect:
@@ -1725,7 +1685,7 @@ TextureImporter:
         width: 34
         height: 53
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_156
       rect:
@@ -1735,7 +1695,7 @@ TextureImporter:
         width: 40
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_157
       rect:
@@ -1745,7 +1705,7 @@ TextureImporter:
         width: 41
         height: 44
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_158
       rect:
@@ -1755,7 +1715,7 @@ TextureImporter:
         width: 41
         height: 44
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_159
       rect:
@@ -1765,7 +1725,7 @@ TextureImporter:
         width: 25
         height: 47
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_160
       rect:
@@ -1775,7 +1735,7 @@ TextureImporter:
         width: 24
         height: 52
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_161
       rect:
@@ -1785,7 +1745,7 @@ TextureImporter:
         width: 24
         height: 53
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_162
       rect:
@@ -1795,7 +1755,7 @@ TextureImporter:
         width: 24
         height: 53
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_163
       rect:
@@ -1805,7 +1765,7 @@ TextureImporter:
         width: 25
         height: 51
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_164
       rect:
@@ -1815,7 +1775,7 @@ TextureImporter:
         width: 25
         height: 47
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_165
       rect:
@@ -1825,7 +1785,7 @@ TextureImporter:
         width: 24
         height: 52
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_166
       rect:
@@ -1835,7 +1795,7 @@ TextureImporter:
         width: 25
         height: 52
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_167
       rect:
@@ -1845,7 +1805,7 @@ TextureImporter:
         width: 24
         height: 52
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_168
       rect:
@@ -1855,7 +1815,7 @@ TextureImporter:
         width: 25
         height: 52
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_169
       rect:
@@ -1865,7 +1825,7 @@ TextureImporter:
         width: 52
         height: 42
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_170
       rect:
@@ -1875,7 +1835,7 @@ TextureImporter:
         width: 41
         height: 44
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_171
       rect:
@@ -1885,7 +1845,7 @@ TextureImporter:
         width: 41
         height: 47
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_172
       rect:
@@ -1895,7 +1855,7 @@ TextureImporter:
         width: 44
         height: 48
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_173
       rect:
@@ -1905,7 +1865,7 @@ TextureImporter:
         width: 35
         height: 53
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_174
       rect:
@@ -1915,7 +1875,7 @@ TextureImporter:
         width: 32
         height: 55
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_175
       rect:
@@ -1925,7 +1885,7 @@ TextureImporter:
         width: 34
         height: 57
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_176
       rect:
@@ -1935,7 +1895,7 @@ TextureImporter:
         width: 36
         height: 54
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_177
       rect:
@@ -1945,7 +1905,7 @@ TextureImporter:
         width: 38
         height: 52
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_178
       rect:
@@ -1955,7 +1915,7 @@ TextureImporter:
         width: 35
         height: 53
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_179
       rect:
@@ -1965,7 +1925,7 @@ TextureImporter:
         width: 34
         height: 53
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_180
       rect:
@@ -1975,7 +1935,7 @@ TextureImporter:
         width: 30
         height: 53
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_181
       rect:
@@ -1985,7 +1945,7 @@ TextureImporter:
         width: 34
         height: 53
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_182
       rect:
@@ -1995,7 +1955,7 @@ TextureImporter:
         width: 30
         height: 45
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_183
       rect:
@@ -2005,7 +1965,7 @@ TextureImporter:
         width: 31
         height: 44
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_184
       rect:
@@ -2015,7 +1975,7 @@ TextureImporter:
         width: 30
         height: 38
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_185
       rect:
@@ -2025,7 +1985,7 @@ TextureImporter:
         width: 30
         height: 33
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_186
       rect:
@@ -2035,7 +1995,7 @@ TextureImporter:
         width: 31
         height: 28
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: ork_187
       rect:
@@ -2045,9 +2005,8 @@ TextureImporter:
         width: 34
         height: 34
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
->>>>>>> origin/master
   spritePackingTag: 
   userData: 
   assetBundleName: 
