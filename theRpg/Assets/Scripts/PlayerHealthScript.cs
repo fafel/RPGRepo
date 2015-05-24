@@ -27,4 +27,9 @@ public class PlayerHealthScript : HealthScript {
 		Time.timeScale = 1.0f;
 		Application.LoadLevel (Application.loadedLevelName);
 	}
+
+	public void LoadLevel(string lvlName){
+		Time.timeScale = 1.0f;
+		Application.LoadLevel (lvlName);
+	}
 }

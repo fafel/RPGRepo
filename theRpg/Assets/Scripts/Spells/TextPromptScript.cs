@@ -32,17 +32,19 @@ public class TextPromptScript : MonoBehaviour {
 
 	void Update(){
 		if (stoped) {
-			if (Input.GetMouseButtonDown(0)){
-				if (Input.mousePosition.y < 70 ){
-					textT.text = "";
-					Time.timeScale = 1.0f;
-					stoped = false;
-					image.gameObject.SetActive(false);
-					Destroy (transform.gameObject);
-				}
+			if ((Input.GetMouseButtonDown(0) && Input.mousePosition.y < 70 ) || Input.anyKey){
+				ResetWindow();
 			}
 
 		}
+	}
+
+	private void ResetWindow(){
+		textT.text = "";
+		Time.timeScale = 1.0f;
+		stoped = false;
+		image.gameObject.SetActive(false);
+		Destroy (transform.gameObject);
 	}
 
 
