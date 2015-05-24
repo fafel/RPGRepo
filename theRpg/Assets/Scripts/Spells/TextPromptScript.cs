@@ -32,7 +32,7 @@ public class TextPromptScript : MonoBehaviour {
 
 	void Update(){
 		if (stoped) {
-			if ((Input.GetMouseButtonDown(0) && Input.mousePosition.y < 70 ) || Input.anyKey){
+			if ((Input.GetMouseButtonDown(0) && Input.mousePosition.y < 70 ) || Input.anyKeyDown){
 				ResetWindow();
 			}
 
