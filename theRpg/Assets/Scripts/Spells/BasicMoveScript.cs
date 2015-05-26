@@ -13,6 +13,9 @@ public class BasicMoveScript : MonoBehaviour {
 	public float speed;
 	public LayerMask player;
 
+
+	public float targetRange = 1.5f;
+
 	Vector3 p1;
 	Vector3 p2;
 	private bool there;
@@ -142,7 +145,7 @@ public class BasicMoveScript : MonoBehaviour {
 
 			break;
 		}
-		Collider2D c = Physics2D.OverlapCircle (transform.position, 1.5f, player);
+		Collider2D c = Physics2D.OverlapCircle (transform.position, targetRange, player);
 		if (c != null && targetTrans == null) {
 			targetTrans = c.gameObject.transform;
 			target = c.gameObject.transform.position;
