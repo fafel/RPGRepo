@@ -8,6 +8,8 @@ public class SpawnerScript : MonoBehaviour {
 	public float frequency = 1.0f;
 	public float duration = 10.0f;
 	public float delay = 0.0f;
+	public float targetRadius = 1.5f;
+
 
 	private float timer;
 
@@ -40,6 +42,12 @@ public class SpawnerScript : MonoBehaviour {
 	private void SpawnObject(){
 		Transform obj = Instantiate (thing) as Transform;
 		obj.transform.position = transform.position;
+		BasicMoveScript bms = obj.GetComponent<BasicMoveScript> ();
+		if (bms != null){
+			bms.targetRange = targetRadius;
+			bms.length = 1;
+			bms.speed = 0.1f;
+		}
 	}
 
 }
