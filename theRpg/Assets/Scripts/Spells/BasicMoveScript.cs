@@ -102,13 +102,13 @@ public class BasicMoveScript : MonoBehaviour {
 				    Mathf.Abs (target.y - transform.position.y) > attackDistance )){
 					attack = false;
 					there = !there;
+					SetRunDirection();
 				}
 			} else	if (Mathf.Abs (target.x - transform.position.x) > attackDistance || 
 			    Mathf.Abs (target.y - transform.position.y) > attackDistance ){
 				Vector3 mov = target - transform.position;
 				mov.Normalize();
-				mov = new Vector3(mov.x * moveSpeed, mov.y * moveSpeed, 0);
-				transform.position += (mov * Time.deltaTime);
+				transform.position = transform.position + (mov * Time.deltaTime);
 				if (attack){
 					there = !there;
 				}
@@ -117,31 +117,7 @@ public class BasicMoveScript : MonoBehaviour {
 				attack = true;
 			}
 
-			if (Mathf.Abs(target.x - transform.position.x) > Mathf.Abs (target.y - transform.position.y)){
-				if (target.x < transform.position.x && there == true){
-					anim.SetTrigger("RunLeft");
-					direction = 0;
-					attack = false;
-					there = false;
-				} else if (target.x > transform.position.x && there == false){
-					there = true;
-					attack = false;
-					anim.SetTrigger("RunRight");
-					direction = 180;
-				}
-			} else {
-				if (target.y > transform.position.y && up == true){
-					anim.SetTrigger("RunUp");
-					direction = 270;
-					attack = false;
-					up = false;
-				} else if (target.y < transform.position.y && up == false){
-					up = true;
-					attack = false;
-					anim.SetTrigger("Run");
-					direction = 90;
-				}
-			}
+			SetRunDirection();
 
 
 
@@ -173,6 +149,34 @@ public class BasicMoveScript : MonoBehaviour {
 
 	public virtual void TimeStuff(){
 
+	}
+
+	private void SetRunDirection(){
+		if (Mathf.Abs(target.x - transform.position.x) > Mathf.Abs (target.y - transform.position.y)){
+			if (target.x < transform.position.x && there == true){
+				anim.SetTrigger("RunLeft");
+				direction = 0;
+				attack = false;
+				there = false;
+			} else if (target.x > transform.position.x && there == false){
+				there = true;
+				attack = false;
+				anim.SetTrigger("RunRight");
+				direction = 180;
+			}
+		} else {
+			if (target.y > transform.position.y && up == true){
+				anim.SetTrigger("RunUp");
+				direction = 270;
+				attack = false;
+				up = false;
+			} else if (target.y < transform.position.y && up == false){
+				up = true;
+				attack = false;
+				anim.SetTrigger("Run");
+				direction = 90;
+			}
+		}
 	}
 
 }
