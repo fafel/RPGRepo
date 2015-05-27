@@ -12,7 +12,7 @@ public class StartScreenScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetMouseButtonDown (0) || Input.anyKey) {
+		if (Input.GetMouseButtonDown (0) || Input.anyKeyDown) {
 			Application.LoadLevel(lvlName);
 		}
 	}
