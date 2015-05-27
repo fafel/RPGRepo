@@ -12,6 +12,7 @@ public class BasicMoveScript : MonoBehaviour {
 	public int dmg = 5;
 	public float speed;
 	public LayerMask player;
+	public float moveSpeed = 1.0f;
 
 
 	public float targetRange = 1.5f;
@@ -106,6 +107,7 @@ public class BasicMoveScript : MonoBehaviour {
 			    Mathf.Abs (target.y - transform.position.y) > attackDistance ){
 				Vector3 mov = target - transform.position;
 				mov.Normalize();
+				mov = new Vector3(mov.x * moveSpeed, mov.y * moveSpeed, 0);
 				transform.position += (mov * Time.deltaTime);
 				if (attack){
 					there = !there;

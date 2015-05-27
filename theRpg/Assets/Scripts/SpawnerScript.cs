@@ -9,6 +9,7 @@ public class SpawnerScript : MonoBehaviour {
 	public float duration = 10.0f;
 	public float delay = 0.0f;
 	public float targetRadius = 1.5f;
+	public float speed = 1.0f;
 
 
 	private float timer;
@@ -47,6 +48,7 @@ public class SpawnerScript : MonoBehaviour {
 			bms.targetRange = targetRadius;
 			bms.length = 1;
 			bms.speed = 0.1f;
+			bms.moveSpeed = speed;
 		}
 	}
 
