@@ -49,7 +49,9 @@ public class SpawnerScript : MonoBehaviour {
 			bms.length = 1;
 			bms.speed = 0.1f;
 			bms.moveSpeed = speed;
+
 		}
+		obj.transform.parent = transform.parent;
 	}
 
 }

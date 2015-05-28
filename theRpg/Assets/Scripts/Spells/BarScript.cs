@@ -37,6 +37,7 @@ public class BarScript : MonoBehaviour {
 				hp.Damage(10);
 			Transform t = Instantiate (explosion) as Transform;
 			t.position = transform.position;
+			//t.parent = transform.parent;
 		}
 		//Transform ta = Instantiate (explosion) as Transform;
 		//ta.position = transform.position;
@@ -48,5 +49,6 @@ public class BarScript : MonoBehaviour {
 		Transform t = Instantiate (transform) as Transform;
 		t.GetComponent<BarScript> ().fuse = 0.25f;
 		t.position = transform.position + direction/5;
+		t.parent = transform.parent;
 	}
 }

@@ -101,11 +101,25 @@ public class SpellHandler : MonoBehaviour {
 				t.GetComponent<ProjectileScript>().direction = dir;
 				t.GetComponent<ProjectileScript>().speed = 10;
 			}
-			if (t.GetComponent<BarScript>() != null){
-				t.GetComponent<BarScript>().direction = dir;
-				var angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg - 90f;
-				t.transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
-				t.transform.position = t.transform.position + dir/5;
+
+			if (projectile == projectile3){
+				PlayerMoveScript pms = transform.GetComponent<PlayerMoveScript>();
+				if (pms != null){
+					pms.StopMove();
+				}
+			}
+
+			if (t.childCount != 0){
+
+				t = t.GetChild(0);
+
+
+				if (t.GetComponent<BarScript>() != null){
+					t.GetComponent<BarScript>().direction = dir;
+					var angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg - 90f;
+					t.transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
+					t.transform.position = t.transform.position + dir/5;
+				}
 			}
 			cd = 0.25f;
 

@@ -10,6 +10,9 @@ public class PlayerMoveScript : MonoBehaviour {
 
 	private float oldX = 0;
 	private float oldY = 0;
+
+	private bool stop = false;
+	private float stopMoveTimer = 0;
 	
 	void Init() {
 		//targetPos = transform.position;
@@ -22,7 +25,9 @@ public class PlayerMoveScript : MonoBehaviour {
 	
 	void Update () {
 		KeyMove ();
-
+		stopMoveTimer -= Time.deltaTime;
+		if (stopMoveTimer < 0)
+			stop = false;
 	}
 
 	void KeyMove(){
@@ -46,9 +51,12 @@ public class PlayerMoveScript : MonoBehaviour {
 			}
 		}
 
-		Vector3 vect = new Vector3 (xAxis, yAxis, 0) * speed;
-		transform.position = transform.position + vect * Time.deltaTime;
-
+		if (!stop) {
+			Vector3 vect = new Vector3 (xAxis, yAxis, 0) * speed;
+			transform.position = transform.position + vect * Time.deltaTime;
+		} else {
+			anim.SetTrigger("Still");
+		}
 
 		oldX = xAxis;
 		oldY = yAxis;
@@ -63,7 +71,15 @@ public class PlayerMoveScript : MonoBehaviour {
 		if (Mathf.Abs (targetPos.x - transform.position.x) < speed * 5 && 
 		    Mathf.Abs (targetPos.y - transform.position.y) < speed * 5)
 			transform.position = Vector3.MoveTowards (transform.position, targetPos, speed * Time.deltaTime);
+	}
 
+	public void StopMove(){
+		stop = true;
+		stopMoveTimer = 1;
+	}
+
+	public void AllowMove(){
+		stop = false;
 	}
 
 }
