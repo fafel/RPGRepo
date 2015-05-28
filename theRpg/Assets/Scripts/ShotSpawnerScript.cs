@@ -53,10 +53,14 @@ public class ShotSpawnerScript : MonoBehaviour {
 		Transform t = Instantiate (projectile) as Transform;
 		t.transform.position = transform.position;
 		ProjectileScript ps = t.GetComponent<ProjectileScript> ();
+		TimerScript ts = t.GetComponent<TimerScript> ();
 		if (ps != null) {
 			ps.direction = direction;
 			ps.enemys = targets;
 			ps.speed = (int)speed;
+		}
+		if (ts != null) {
+			ts.time = 100.0f;
 		}
 	}
 

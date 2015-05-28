@@ -105,7 +105,7 @@ public class SpellHandler : MonoBehaviour {
 			if (projectile == projectile3){
 				PlayerMoveScript pms = transform.GetComponent<PlayerMoveScript>();
 				if (pms != null){
-					pms.StopMove();
+					//pms.StopMove();
 				}
 			}
 
