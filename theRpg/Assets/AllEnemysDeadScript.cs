@@ -5,10 +5,7 @@ public class AllEnemysDeadScript : MonoBehaviour {
 
 	public Transform successPanel;
 
-	// Use this for initialization
-	void Start () {
-	
-	}
+
 	
 	// Update is called once per frame
 	void Update () {
