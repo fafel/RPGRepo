@@ -9,6 +9,7 @@ public class HealthScript : MonoBehaviour {
 	public Transform explosion;
 	public bool die = true;
 	public Image img;
+	public int points;
 
 	private float hp;
 
@@ -18,8 +19,13 @@ public class HealthScript : MonoBehaviour {
 
 	public int Damage(float dmg){
 		hp -= dmg;
-		if (hp < 0)
+		if (hp <= 0) {
+			if (CoreDataScript.coreDataScript != null){
+				CoreDataScript.coreDataScript.score += points;
+			}
+
 			return xp;
+		}
 		return 0;
 	}
 

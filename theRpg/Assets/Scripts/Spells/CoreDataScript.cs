@@ -14,18 +14,30 @@ public class CoreDataScript : MonoBehaviour {
 	public string lvl;
 	public string saveFile;
 
+	public int score;
+	public int totalScore;
+
+
+
+
 	//static reference to data
 	public static CoreDataScript coreDataScript;
 
 	void Awake (){
 		if (coreDataScript == null) {
 			coreDataScript = this;
+			score = 0;
+			totalScore = 0;
 			DontDestroyOnLoad (gameObject);
 		} else if (coreDataScript != this) {
 			Destroy(gameObject);
 		}
 	}
 
+	public void TransferScore(){
+		totalScore += score;
+		score = 0;
+	}
 
 	public void Load(string fileName){
 		string path = Application.persistentDataPath + "/" + fileName;
